@@ -347,7 +347,6 @@ address, caption, em,i {
 
 
 .video_list{
-    border: 1px solid pink;
     margin-top: .24rem;
 }
 .video_list li{
@@ -383,7 +382,7 @@ address, caption, em,i {
     text-align: left;
     background-image: url(../img/ico_play.png);
     background-size: .35rem .4rem;
-    background-position: 8.4rem .05rem;
+    background-position: 95% .05rem;
     background-repeat: no-repeat;
 }
 .video_list .video_child{
